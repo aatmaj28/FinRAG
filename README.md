@@ -10,21 +10,21 @@ A powerful financial document analysis tool that leverages Retrieval Augmented G
 ## 📸 Application Overview
 
 ### Home Page
-![Home Page](images/home_page.png)
+![Home Page](images/fin1.svg)
 *The home page allows users to navigate to either the RAG System or Document Q&A functionality*
 
 ### RAG System
-![RAG System](images/rag_system.png)
+![RAG System](images/fin2.svg)
 *Query the pre-processed financial knowledge base with advanced retrieval options*
 
 ### Document Q&A
-![Document Q&A](images/document_qa.png)
+![Document Q&A](images/fin3.svg)
 *Upload and analyze your own financial documents with customizable processing options*
 
 
 
 <p align="center">
-  <img src="Images/PH-1.jpg" alt="Hacking" width="75%" style="transform: rotate(90deg);" />
+  <img src="images/fin3.svg" alt="Hacking" width="75%" style="transform: rotate(90deg);" />
 </p>
 
 
