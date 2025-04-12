@@ -1,0 +1,1 @@
+{"strategy": "tfidf", "embedding_model": "yiyanghkust/finbert-tone", "chunk_size": 512, "num_chunks": 83, "date_processed": "2025-04-01 17:20:14", "processing_time": 81.23}
