@@ -7,6 +7,27 @@
 
 A powerful financial document analysis tool that leverages Retrieval Augmented Generation (RAG) techniques to extract insights from 10-K reports and other financial documents.
 
+## 📸 Application Overview
+
+### Home Page
+![Home Page](images/home_page.png)
+*The home page allows users to navigate to either the RAG System or Document Q&A functionality*
+
+### RAG System
+![RAG System](images/rag_system.png)
+*Query the pre-processed financial knowledge base with advanced retrieval options*
+
+### Document Q&A
+![Document Q&A](images/document_qa.png)
+*Upload and analyze your own financial documents with customizable processing options*
+
+
+
+<p align="center">
+  <img src="Images/PH-1.jpg" alt="Hacking" width="75%" style="transform: rotate(90deg);" />
+</p>
+
+
 ## 🌟 Features
 
 - **Dual Functionality**: 
@@ -189,3 +210,9 @@ The system was created as part of the CS 6120: Natural Language Processing cours
 ## 📧 Contact
 
 For questions or support, please open an issue in the GitHub repository or contact Aatmaj Salunke @aatmajsalunke@yahoo.com
+
+The system was created as part of the CS 6120: Natural Language Processing course, applying advanced NLP techniques to solve real-world information retrieval problems in the financial domain.
+
+## 📧 Contact
+
+For questions or support, please open an issue in the GitHub repository or contact the maintainer.
