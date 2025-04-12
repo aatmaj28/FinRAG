@@ -10,16 +10,17 @@ A powerful financial document analysis tool that leverages Retrieval Augmented G
 ## 📸 Application Overview
 
 <div align="center">
+  <p><b>Home Page</b></p>
+  <img src="images/fin1.svg" alt="Home Page" width="800"/>
+  
   <table>
     <tr>
-      <td align="center"><b>Home Page</b></td>
       <td align="center"><b>RAG System</b></td>
       <td align="center"><b>Document Q&A</b></td>
     </tr>
     <tr>
-      <td><img src="images/fin1.svg" alt="Home Page" width="420"/></td>
-      <td><img src="images/fin2.svg" alt="RAG System" width="420"/></td>
-      <td><img src="images/fin3.svg" alt="Document Q&A" width="420"/></td>
+      <td><img src="images/fin2.svg" alt="RAG System" width="550"/></td>
+      <td><img src="images/fin3.svg" alt="Document Q&A" width="550"/></td>
     </tr>
   </table>
 </div>
