@@ -14,6 +14,8 @@ A powerful financial document analysis tool that leverages Retrieval Augmented G
   <img src="images/fin1.svg" alt="Home Page" width="800"/>
 
   <br>
+  <br>
+  <br>
   <table>
     <tr>
       <td align="center"><b>RAG System</b></td>
