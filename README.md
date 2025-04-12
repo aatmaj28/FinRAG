@@ -9,15 +9,20 @@ A powerful financial document analysis tool that leverages Retrieval Augmented G
 
 ## 📸 Application Overview
 
-### Home Page
-![Home Page](images/fin1.svg)
-
-### RAG System
-![RAG System](images/fin2.svg)
-
-### Document Q&A
-![Document Q&A](images/fin3.svg)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home Page</b></td>
+      <td align="center"><b>RAG System</b></td>
+      <td align="center"><b>Document Q&A</b></td>
+    </tr>
+    <tr>
+      <td><img src="images/fin1.svg" alt="Home Page" width="280"/></td>
+      <td><img src="images/fin2.svg" alt="RAG System" width="280"/></td>
+      <td><img src="images/fin3.svg" alt="Document Q&A" width="280"/></td>
+    </tr>
+  </table>
+</div>
 
 
 ## 🌟 Features
@@ -202,9 +207,3 @@ The system was created as part of the CS 6120: Natural Language Processing cours
 ## 📧 Contact
 
 For questions or support, please open an issue in the GitHub repository or contact Aatmaj Salunke @aatmajsalunke@yahoo.com
-
-The system was created as part of the CS 6120: Natural Language Processing course, applying advanced NLP techniques to solve real-world information retrieval problems in the financial domain.
-
-## 📧 Contact
-
-For questions or support, please open an issue in the GitHub repository or contact the maintainer.
