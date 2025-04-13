@@ -997,8 +997,8 @@ except LookupError:
 
 
 # Set your Mistral API key here (not visible to users)
-MISTRAL_API_KEY = "grL3IacMpVhmjmfNW6ZNBismxLyNS7gV"  # Replace with your actual API key
-GEMINI_API_KEY = "AIzaSyAfxHwFSHC-5_h3BQ8GR0N1H6FAfyJqqUI"  # Add this line
+MISTRAL_API_KEY = ""  # Insert your MISTRAL API KEY here
+GEMINI_API_KEY = ""  # Insert your GEMINI API KEY here
 
 import google.generativeai as genai
 genai.configure(api_key=GEMINI_API_KEY)
