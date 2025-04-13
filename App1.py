@@ -1273,8 +1273,8 @@ except LookupError:
 
 
 # Store API key as a global variable
-API_KEY = "grL3IacMpVhmjmfNW6ZNBismxLyNS7gV"
-GEMINI_API_KEY = "AIzaSyAfxHwFSHC-5_h3BQ8GR0N1H6FAfyJqqUI"  # Add this line
+API_KEY = "" # Insert your MISTRAL API KEY here
+GEMINI_API_KEY = ""  # Insert your GEMINI API KEY here
 
 import google.generativeai as genai
 genai.configure(api_key=GEMINI_API_KEY)
